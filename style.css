@@ -4,16 +4,77 @@ margin: 0%;
 }
 
 header{
+    position: relative;
     background-color: rgba(74, 74, 74, 50%);
     min-height: fit-content;
     justify-content: center;
 }
 
 ul{
-    margin: 0% 0% 0% 202px;
+    text-align: center;
+    margin: 0% 0% 0% 0px;
     padding: 21px 0px 21px 0px;
 }
 
 li{
     display: inline;
+}
+
+.nav-bar-item{
+    font-family: 'Imbue', serif;
+    font-size: 48px;
+    color: #fff;
+    padding: 0% 76px 0% 0%;
+}
+
+.search-bar{
+    
+    padding: 8px 0px 8px 0px;
+    max-width: 420px;
+    width: 100%;
+    text-align: right;
+    font-family: 'Imbue', serif;
+    font-size: 32px;
+    color: #fff;
+    background-color: inherit;
+    border-radius: 27px;
+    border: #fff solid 1px;
+    cursor: pointer;
+    
+}
+
+::placeholder{
+    text-align: center;
+    color: #fff;
+}
+input{
+color: inherit;
+}
+
+h1{
+    font-family: 'Imbue', serif;
+    font-size: 100px;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Imbue', serif;
+    font-size: 60px;
+    color: #fff;
+
+}
+
+h3{
+    font-family: 'Imbue', serif;
+    font-size: 48px;
+    color: #fff;
+
+}
+
+
+.body_font{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    color: #fff;
+
 }
