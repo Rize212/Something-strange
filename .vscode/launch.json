@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "msedge",
             "request": "launch",
             "name": "Open Index.html",
-            "file": "/Users/rize/Desktop/GitHub desctop local repos/Something-strange/Index.html"
+            "file": "e:\\GitHub local repos\\Something-strange\\Index.html"
         }
     ]
 }
