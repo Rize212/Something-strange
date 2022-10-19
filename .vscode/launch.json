@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open Index.html",
-            "file": "e:\\GitHub local repos\\Something-strange\\Index.html"
+            "name": "Open LandingPage.html",
+            "file": "e:\\GitHub local repos\\Something-strange\\LandingPage.html"
         }
     ]
 }
