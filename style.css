@@ -47,6 +47,7 @@ li{
     text-align: center;
     color: #fff;
 }
+
 input{
 color: inherit;
 }
@@ -55,6 +56,8 @@ h1{
     font-family: 'Imbue', serif;
     font-size: 100px;
     color: #fff;
+    font-weight: 400;
+    margin: 0%;
 }
 
 h2{
@@ -77,4 +80,24 @@ h3{
     font-size: 24px;
     color: #fff;
 
+}
+
+section{
+    margin: 164px 0px 0px 0px;
+}
+.section_1_leftside{
+    max-width: 49%;
+    margin: 0px 0px 0px 190px;
+    vertical-align: middle;
+}
+.section_1_rightside{
+    max-width: 49%;
+    margin:0px 190px 0px 0px ;
+}
+.vertical-line{
+    position: absolute;
+    border-left: 5px solid #fff;
+    height: 860px;
+    left: 50%;
+    border-radius: 20px;
 }
